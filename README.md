@@ -39,6 +39,9 @@ If the swapper isn't opening try the following:
 
 # Errors
 
+### **When using emotes DO NOT put the emote in your main locker wheel, favourite it instead**
+
+
 If Fortnite is crashing / not opening you can try verifying Fortnite:
 1. Open Pro Swapper
 2. Goto the settings tab
