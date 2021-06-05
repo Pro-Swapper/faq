@@ -33,7 +33,7 @@ If the swapper isn't opening try the following:
 - Turn off your anti virus, turn off real time protection from Windows security.
 - Try opening the swapper as Administrator
 - If the swapper is still not opening try putting it in a different folder (or your desktop)
-- If there is a .NET error or something like that try installing the 4.6.1 .NET framework [here](https://dotnet.microsoft.com/download/dotnet-framework/net461 "Microsoft's .NET 4.6.1 framework")
+- If there is a .NET error or something like that try installing Microsoft's [.NET 5](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.6-windows-x64-installer)
 - Make sure you downloadeded Pro Swapper from the official link [here](https://link-to.net/86737/proswapper)
 - If you get a network error try using a [vpn](https://en.wikipedia.org/wiki/Virtual_private_network). [Proton VPN](https://protonvpn.com) is a good free vpn.
 
