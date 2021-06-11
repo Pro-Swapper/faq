@@ -3,6 +3,7 @@ Jump to a page: <br>
 [FAQ (Frequently Asked Questions)](#frequently-asked-questions) <br>
 [Swapper Not Opening](#swapper-not-opening) <br>
 [How To Fix Crash Fortnite Errors](#errors) <br>
+[Swaps Not Applying](#swaps-not-applying) <br>
 
 ### Discord Server
 <a href="https://discord.gg/X3Bg3JwPTC"><img src="https://discord.com/api/guilds/703033424541384784/widget.png?style=banner2"></a>
@@ -54,3 +55,16 @@ If Fortnite is crashing / not opening you can try verifying Fortnite:
 ###### There is no real maximum numbers of items you can swap but it's good to keep it less than about 4, some items together are more likely to kick, you can try and experiment to see what kicks and doesn't kick.
 
 ![](https://github.com/Pro-Swapper/faq/blob/main/Images/TooManyItems.jpeg?raw=true)
+
+# Swaps Not Applying
+
+This is when you Convert an item on Pro Swapper and the changes aren't applied in Fortnite
+
+First check that you **DO NOT** have High Resolution Textures enabled. This setting can be found in Epic Games Launcher -> Fortnite -> Click the 3 dots -> Options
+
+![image](https://user-images.githubusercontent.com/36981621/121748837-01ea8880-cb4d-11eb-89b3-38c8c6ea90bd.png)
+
+Make sure this box is unchecked.
+
+
+If that doesn't work make sure your Fortnite paks folder location is correct. This is where Fortnite is installed. By default the Fortnite paks folder is located in `C:\Program Files\Epic Games\Fortnite\FortniteGame\Content\Paks` but this may be different depending on where you downloaded Fortnite.
