@@ -1,5 +1,5 @@
 Jump to a page: <br>
-[Pro Swapper Video Tutorial](https://youtu.be/cFWh3P5TDuI) <br>
+[Pro Swapper Video Tutorial](https://youtu.be/EJpBw-wv_uQ) <br>
 [FAQ (Frequently Asked Questions)](#frequently-asked-questions) <br>
 [Swapper Not Opening](#swapper-not-opening) <br>
 [How To Fix Crash Fortnite Errors](#errors) <br>
