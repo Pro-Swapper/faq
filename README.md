@@ -1,3 +1,9 @@
+**Just a heads up, a new Pro Swapper FAQ/Docs page is being worked on, you can read the newer version here: https://docs.proswapper.xyz/**
+
+
+
+
+
 Jump to a page: <br>
 [Pro Swapper Video Tutorial](https://youtu.be/EJpBw-wv_uQ) <br>
 [FAQ (Frequently Asked Questions)](#frequently-asked-questions) <br>
