@@ -1,6 +1,9 @@
-**Just a heads up, a new Pro Swapper FAQ/Docs page is being worked on, you can read the newer version here: https://docs.proswapper.xyz/**
+# The new Pro Swapper FAQ/Docs have moved here: https://docs.proswapper.xyz
 
 
+<br>
+<br>
+<br>
 
 
 
